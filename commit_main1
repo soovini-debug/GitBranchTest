@@ -17,7 +17,7 @@
 5. ver1.0 기능 추가
 - 새로운 branch 에 test commit 
 - ver1 Branch 변경 내용 추가 
-5-1. ver1.0 branch에 test commit2
+5-1. ver1.0 branch에 test commit2 (main 에 병합하는 commit)
 
 5-2. ver1.0 branch에 test commit3 (clone branch 수정하기)
 
