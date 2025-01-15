@@ -22,3 +22,7 @@
 5-2. ver1.0 branch에 test commit3
 
 6. GitHub에서 Clone으로 내려받기 (push한 github에서 수정하기)
+
+// git hub에서 Clone으로 받은 후 새로운 기능 추가 
+7. 댓글 기능 pull-request
+- 로컬에 있는  Main branch에 커밋 (commit)
