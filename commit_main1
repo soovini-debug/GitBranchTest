@@ -26,3 +26,4 @@
 // git hub에서 Clone으로 받은 후 새로운 기능 추가 
 7. 댓글 기능 pull-request
 - 로컬에 있는  Main branch에 커밋 (commit)
+- 댓글에 아이디 표시 기능 추가 하기 
